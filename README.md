@@ -1,4 +1,4 @@
-# api-surf-beach
+# api-surf-beach 🏄🏻‍♂️
 Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do professor "Waldemar Neto - Dev Lab"
 
 `💼 Repositório oficial:` https://github.com/waldemarnt/node-typescript-api
