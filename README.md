@@ -1,6 +1,9 @@
 # api-surf-beach
 Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do professor "Waldemar Neto - Dev Lab"
 
+`💼 Repositório oficial:` https://github.com/waldemarnt/node-typescript-api
+
+`👨🏻‍🏫 Aulas`: [REPRODUZIR TUDO DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT]
 
 ### Capitulo 1: setup do ambiente de desenvolvimento
 
@@ -58,3 +61,5 @@ Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do prof
 - [ ] Teste de ponta a ponta com front end consumingo a APi
 - [ ] Rate Limit
 - [ ] Documentação com Open Api
+
+[REPRODUZIR TUDO DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT]:<https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh>
