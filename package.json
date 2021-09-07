@@ -13,12 +13,22 @@
   "keywords": [
     "nodejs",
     "typescrit",
-    "api"
+    "api",
+    "🏄🏻‍♂️"
   ],
   "author": "Rafael Perina",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raperina98/api-surf-beach/issues"
   },
-  "homepage": "https://github.com/raperina98/api-surf-beach#readme"
+  "homepage": "https://github.com/raperina98/api-surf-beach#readme",
+  "dependencies": {
+    "module-alias": "^2.2.2",
+    "yarn": "^1.22.11"
+  },
+  "devDependencies": {
+    "@types/module-alias": "^2.0.1",
+    "@types/node": "^16.7.13",
+    "typescript": "^4.4.2"
+  }
 }
