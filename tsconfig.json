@@ -11,7 +11,7 @@
     "outDir": "dist",                              /* Redirect output structure to the directory. */
    
     "removeComments": true,                      /* Do not emit comments to output. */
-    "removeJsonModule": true,
+    "resolveJsonModule": true,
 
     /* Strict Type-Checking Options */
     "strict": true,                                 /* Enable all strict type-checking options. */
