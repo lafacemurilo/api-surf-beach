@@ -4,6 +4,8 @@
   "description": "Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do professor \"Waldemar Neto - Dev Lab\"",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node dist/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
