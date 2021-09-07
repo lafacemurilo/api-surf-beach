@@ -17,8 +17,8 @@ Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do prof
 
 - [ ] Integração com serviço externos
 - [ ] Design da API
-- [ ] Bos prtics de error handling
-- [ ] Configuraçõ dinmica co node-config
+- [ ] Bos praticas de error handling
+- [ ] Configuração dinamica com node-config
 - [ ] Jest Mocks + Typescript
 
 ### Capitulo 3: criação do forecst services, core da API
