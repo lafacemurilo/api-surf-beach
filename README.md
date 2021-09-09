@@ -8,7 +8,7 @@ Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do prof
 ### Capitulo 1: setup do ambiente de desenvolvimento
 
 - [x] Setup Typescript
-- [ ] Eslint
+- [x] Eslint
 - [ ] Jest + Typescript
 - [ ] Setup de teste de integração com supertest + types
 - [ ] Setup do servidor Node.js com OvernightJs (express)
