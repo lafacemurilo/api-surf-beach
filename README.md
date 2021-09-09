@@ -13,7 +13,7 @@ Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do prof
 - [ ] Setup de teste de integração com supertest + types
 - [ ] Setup do servidor Node.js com OvernightJs (express)
 
-### Capitulo 2: integrção com o serviço de meteorologia externo
+### Capitulo 2: integração com o serviço de meteorologia externo
 
 - [ ] Integração com serviço externos
 - [ ] Design da API
