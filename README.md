@@ -11,7 +11,7 @@ Projeto de estudo de Typescript: Previsão de surf para as praias. Aulas do prof
 - [x] Eslint
 - [x] Jest + Typescript
 - [x] Setup de teste de integração com supertest + types
-- [ ] Setup do servidor Node.js com OvernightJs (express)
+- [x] Setup do servidor Node.js com OvernightJs (express)
 
 ### Capitulo 2: integração com o serviço de meteorologia externo
 
