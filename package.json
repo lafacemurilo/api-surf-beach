@@ -30,6 +30,7 @@
   "homepage": "https://github.com/raperina98/api-surf-beach#readme",
   "dependencies": {
     "@overnightjs/core": "^1.7.6",
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "module-alias": "^2.2.2",
     "yarn": "^1.22.11"
