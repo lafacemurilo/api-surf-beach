@@ -4,7 +4,7 @@ const root = resolve(__dirname); // diretório raiz
 
 module.exports = {
     rootDir: root,
-    displayName: 'root-tests', //é um label no teste para reconhece-lo nos logs
+    displayName: 'root-tests', //é um label no teste para reconhece-lo nos logss
     testMatch: ['<rootDir>/src/**/*.test.ts'], /*esse arquivo só dara merge nos testes
 		que estão dentro -- no caso -- da pasta src/ */
     testEnvironment: 'node', // ambiente de teste: node
